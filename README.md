@@ -1,4 +1,4 @@
-This is a [link](https://www.canva.com/design/DAFIZTETbGU/khlEG6ExhC2Ftb0q4DLnlg/view?utm_content=DAFIZTETbGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to a Canva presentation with less details but general information about the project.
+This is a [link](https://www.canva.com/design/DAFIZTETbGU/khlEG6ExhC2Ftb0q4DLnlg/view?utm_content=DAFIZTETbGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to a Canva presentation with similar but additional information about the project (including challenges, issues faces, data, project idea, project background, future additions and developments, and more).
 
 # Background/Context
 This is a beginner project focused on plotting Gas Resistance values (through the BME680 Environmental Sensor and Arduino Uno) in order to determine if Volatile Organic Compounds (VOCs) are present in a liquid, room/space, etc. 
