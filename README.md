@@ -26,7 +26,7 @@ Using these products, the circuit is set up as computer -> Arduino Uno -> BME680
 - [Image #1 of circuit](https://drive.google.com/file/d/1y2ZjQC4EFqr70kspkzPAczW41k7UYcBL/view?usp=sharing)
 - [Image #2 of circuit](https://drive.google.com/file/d/1-wZBbr4TrorwE3fzVAs2Vk3e0yQ8Z1Cd/view?usp=sharing)
 
-There are 4 different tests and examples of code linked to this project: IOT_Project1, IOT_Project_Final_Gas_Resistance, plotData7.py, and plotData8.py. There are more specific details regarding the code and its uses in the later sections. 
+There are 4 different tests and examples of code linked to this project: IOT_Project1, IOT_Project_Final_Gas_Resistance, plotData7.py, and plotData8.py. There are more specific details regarding the code and its uses in the later sections. Python (at least version 3.8) should be downloaded in order to be able to use plotData7.py and plotData8.py, but these codes can be opened and used in Visual Studio Code as well.
 
 In order for the project's success, there needs to be a timeline from June 23rd to August4th.
 - June 23rd: Acquire necessary materials
