@@ -21,9 +21,19 @@ Details ofthe project, cirucit, and code are in the following sections.
 The circuit uses [Arduino Uno](https://www.sparkfun.com/products/15123) (or also known as the RedBoard Qwiic from SparkFun), [BME688 Sensor](https://www.sparkfun.com/products/19096) (similar to the BME680 Environmental Sensor and libraries work for both), [Micro OLED](https://www.sparkfun.com/products/14532), [Micro-B USB Cable](https://www.sparkfun.com/products/10215), and [Qwiic Cables](https://www.sparkfun.com/products/17259). All of these products are from SparkFun; therefore, the code is adjusted to work for these products and may need change for other products. 
 
 Using these products, the circuit is set up as computer -> Arduino Uno -> BME680 -> OLED (where -> represents a cable connectivity). Please use the photos below for reference. 
-![Circuit1](https://drive.google.com/file/d/1y2ZjQC4EFqr70kspkzPAczW41k7UYcBL/view?usp=sharing)
+[Image #1 of circuit](https://drive.google.com/file/d/1y2ZjQC4EFqr70kspkzPAczW41k7UYcBL/view?usp=sharing)
+[Image #2 of circuit](https://drive.google.com/file/d/1-wZBbr4TrorwE3fzVAs2Vk3e0yQ8Z1Cd/view?usp=sharing)
+
 
 There are 4 different tests and examples of code linked to this project: IOT_Project1, IOT_Project_Final_Gas_Resistance, plotData7.py, and plotData8.py. There are more specific details regarding the code and its uses in the later sections. 
+
+In order for the project's success, there needs to be a timeline from June 23rd to August4th.
+- June 23rd: 
+
+
+
+
+
 
 
 
